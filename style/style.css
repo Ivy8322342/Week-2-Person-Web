@@ -178,18 +178,18 @@
   }
   
 
-  .header nav ul {
+  header nav ul {
   	color: #D1D1D1;
   	padding-top: 40px;
 	
 
   }
 
-  .header nav ul li{
+  header nav ul li{
 	width: 306px;
   }
 
-  .header nav ul li a {
+  header nav ul li a {
 	display: block;
   	color: #D1D1D1;
 	text-align: right;
@@ -372,12 +372,12 @@
 
 
 
-  .footer{
+  footer{
     padding-top: 40px;
     padding-bottom: 40px;
   }
 
-  .footer .copy-right{
+  footer .copy-right{
     text-align: center;
   }
 
